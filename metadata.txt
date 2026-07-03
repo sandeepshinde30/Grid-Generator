@@ -1,0 +1,13 @@
+[general]
+name=AlignGrid Buffer Tool
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=An adaptive tool to generate tight grids, centroids, and buffers across multi-format layers (SHP, KML, KMZ, Lines, Polygons).
+version=1.0.0
+author=Sandeep Shinde
+email=Sandeep.shinde30@gmail.com
+about=This plugin automatically handles single/multi-polygons, lines, and tight gaps. It provides custom orientation angles along with centimeter/millimeter buffer support.
+tracker=https://github.com/yourusername/AlignGrid-Buffer-Tool/issues
+repository=https://github.com/yourusername/AlignGrid-Buffer-Tool
+tags=grid, buffer, centroid, kml, alignment, tight-geometry
+category=Vector
